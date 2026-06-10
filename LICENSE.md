@@ -1,4 +1,4 @@
-# 
+# Profesional Practical AI Projects for Students scripts. Con IA generativa y análisis de sentimientos — optimizado para el máximo rendimiento.
 
 
 
